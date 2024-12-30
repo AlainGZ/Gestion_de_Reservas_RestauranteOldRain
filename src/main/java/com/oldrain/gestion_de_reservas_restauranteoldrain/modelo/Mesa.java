@@ -2,7 +2,7 @@
 package com.oldrain.gestion_de_reservas_restauranteoldrain.modelo;
 
 /*
- * @author AlainGomezZ
+ * @author AlainGomezZ P1.2
  */
 import jakarta.persistence.*;
 
