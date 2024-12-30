@@ -11,7 +11,7 @@
         <property name="hibernate.connection.username">root</property>
         <property name="hibernate.connection.password">admin</property>
 
-        <!-- Dialecto de la base de datos -->
+        <!-- Dialecto de la base de datos-->
         <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
 
         <!-- Configuración de Hibernate -->
