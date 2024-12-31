@@ -1,12 +1,12 @@
 
 package com.oldrain.gestion_de_reservas_restauranteoldrain.modelo;
 
-/**
- * @author AlainGomez
- */
 
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
+/**
+ * @author AlainGomez
+ */
 
 public class HibernateUtil {
     private static final SessionFactory sessionFactory;
