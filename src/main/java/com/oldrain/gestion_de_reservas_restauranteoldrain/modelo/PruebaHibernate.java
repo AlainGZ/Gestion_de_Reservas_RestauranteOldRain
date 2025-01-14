@@ -37,6 +37,6 @@ public class PruebaHibernate {
         transaction.commit();
         session.close();
 
-        System.out.println("Reserva guardada con éxito!");
+        System.out.println("Reserva guardada con éxito!!");
     }
 }

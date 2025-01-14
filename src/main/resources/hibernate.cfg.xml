@@ -9,7 +9,7 @@
         <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
         <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/restaurante_db</property>
         <property name="hibernate.connection.username">root</property>
-        <property name="hibernate.connection.password">tu_contraseña</property>
+        <property name="hibernate.connection.password">admin</property>
 
         <!-- Dialecto de la base de datos -->
         <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
